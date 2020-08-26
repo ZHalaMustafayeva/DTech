@@ -724,23 +724,3 @@ html{
 
 
 
-/*
-
-@keyframes slide{
-	0%{
-		background: url(../img/bg3.jpg);
-	}
-	25%{
-		background: url(../img/bg3.jpg);
-	}
-	50%{
-		background: url(../img/slide1.jpg);
-	}
-	/*75%{
-		background: url(../img/slide2.jpg);
-	}
-	100%{
-		background: url(../img/slide1.jpg);
-	}
-}
-*/
